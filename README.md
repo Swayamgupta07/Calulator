@@ -1,4 +1,4 @@
-# Calulator using Html, Css , Jaascript
+# Calulator using Html, Css , Javascript
 
 # Calculator
 
